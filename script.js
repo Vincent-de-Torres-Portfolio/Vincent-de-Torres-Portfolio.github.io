@@ -1,7 +1,7 @@
 
 
 const carouselSlide = document.getElementById('carouselSlide');
-const imageFilenames = ['cisco-1.png', 'cisco-2.png', 'comptia-1.png', 'comptia-2.png','comptia-2.png', 'ms-1.png', 'ms-2.png', 'ms-3.png', 'ms-4.png', 'ms-5.png', 'ms-6.png', 'misc-1.png', 'misc-2.png', 'misc-3.png'];
+const imageFilenames = ['cisco-1.png', 'cisco-2.png', 'comptia-1.png', 'comptia-2.png', 'comptia-3.png', 'ms-1.png', 'ms-2.png', 'ms-3.png', 'ms-4.png', 'ms-5.png', 'ms-6.png', 'misc-1.png', 'misc-2.png', 'misc-3.png'];
 // Add more image filenames to the array
 
 let currentSlide = 0;
